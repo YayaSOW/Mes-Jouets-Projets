@@ -2,5 +2,5 @@
 $serverName = "";
 $dBUsername = "";
 $dBPassword = "";
-$dBName = "";
+$dBNName = "";
 ?>

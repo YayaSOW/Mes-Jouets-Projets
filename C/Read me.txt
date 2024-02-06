@@ -1,0 +1,19 @@
+EXERCICE 1:
+Créer un programme en C pemettant de lire (afficher) les données du fichier "personne.txt" sashant que la structure d'un étudiant est :
+ETUDIANT:
+    -> matricule (chaine de 20 caractères)
+    -> nom (chaine de 20 caractères)
+    -> prenom (chaine de 30 caractères)
+    -> dateNaiss (chaine de 11 caractères)
+    -> ville (chaine de 20 caractères)
+    -> tel (chaine de 10 caractères)
+    -> email (chaine de 50 caractères)
+    -> moyenne (réel)
+NB: 
+Vous devez adopter l'affichage l'executable "affichageListe.exe"
+------------------------------------------------------------------
+EXERCICE 2:
+Ecrire les sous programme nécessaires pour :
+- Ajouter tous les étudiants dans un fichier
+- Afficher la liste
+
