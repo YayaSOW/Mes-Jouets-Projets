@@ -1,0 +1,18 @@
+Creer une classe nommee Info avec les fonctionnalites suivantes:
+ - Une methode qui permet de creer un fichier json d'articles a partir du fichier text :
+    cette methode prend en parametre le nom du fichier json a crée 
+ - Une methode qui permet creer une base de donnee sqlite avec la tableau article a partir d'un fichier json donné :
+    cette methode ne prend pas de parametre. si la tableau existe deja alors on ne le cree pas
+ - Une methode qui permet d'ajouter un article
+    - dans la base
+    - dans le fichier json
+- Une methode qui permet d'afficher les articles de la base de donnees
+- Une methode qui permet afficher l'article qui a le plus de :
+    - vues
+    - likes
+    - dislike
+- Une methode qui permet d'afficher les articles par tags
+- Une methode qui permet d'afficher les articles par auteurs
+- Une methode qui permet d'afficher les articles par etat
+- Une methode qui permet d'une methode static qui retourne un article de de categorie javascript et ecrit par Breukh
+- Une methode qui permet d'une methode static qui retourne un article de de categorie python et ecrit par Breukh
